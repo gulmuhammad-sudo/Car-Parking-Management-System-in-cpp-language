@@ -1,7 +1,7 @@
 # car-parking-management-system
 
             `````PASSWORD to Access the Output`````
-            password is "pass"
+                            pass
 
 In this code following functions are used 
 
